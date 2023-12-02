@@ -1,4 +1,4 @@
-### Hi there 👋, Mikhail Goncharov, Data Scientist at SBERBANK
+Mikhail Goncharov, Data Scientist at SBERBANK
 #### Enhancing Financial Performance and Optimizing Operations
 ![Enhancing Financial Performance and Optimizing Operations](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
