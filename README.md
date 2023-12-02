@@ -2,9 +2,13 @@ Hi, my name is Mikhail 👋
 Field of interests: Machine Learning, Databases and algorithms
 
 Skills 🛠️
+
 Languages:  Python, SQL
+
 DS/ML/DL:   SkLearn, PyTorch, 
+
 Big Data:     Hadoop, Hive, Spark
+
 DevOps:       Git, Docker
 
 #### Enhancing Financial Performance and Optimizing Operations
