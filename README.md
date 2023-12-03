@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NLP, Flask, FastAPI**
 
-- 💬 Ask me about **machine learning, data bases, algorithms,**
+- 💬 Ask me about **machine learning, data bases, algorithms**
 
 - 📫 How to reach me: **mikhail.potter@mail.ru**
 
