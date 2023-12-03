@@ -1,3 +1,5 @@
+![head]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/MikhailPotter/MikhailPotter/blob/main/ds.webp))
+
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A data scientist and python developer from Russia</h3>
 
