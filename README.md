@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **SBERBANK**
 
-- 🌱 I’m currently learning **NLP, Flask,FastAPI**
+- 🌱 I’m currently learning **NLP, Flask, FastAPI**
 
 - 💬 Ask me about **machine learning, data bases, algorithms,**
 
