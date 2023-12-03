@@ -1,4 +1,4 @@
-![head]([[https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/MikhailPotter/MikhailPotter/blob/main/ds.webp)](https://github.com/MikhailPotter/MikhailPotter/blob/main/ds.png))
+![I am GitHub Readme Generator's creator](https://github.com/MikhailPotter/MikhailPotter/blob/main/ds.png)
 
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A data scientist and python developer from Russia</h3>
