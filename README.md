@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **machine learning, data bases, algorithms,**
 
-- 📫 How to reach me **mikhail.potter@mail.ru**
+- 📫 How to reach me: **mikhail.potter@mail.ru**
 
-- ⚡ Fun fact **training for marathon**
+- ⚡ Fun fact: **training for marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
