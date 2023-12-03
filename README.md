@@ -1,7 +1,6 @@
-![I am GitHub Readme Generator's creator](https://github.com/MikhailPotter/MikhailPotter/blob/main/ds.png)
-
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A data scientist and python developer from Russia</h3>
+![DataScience](https://github.com/MikhailPotter/MikhailPotter/blob/main/ds.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikhailpotter&label=Profile%20views&color=0e75b6&style=flat" alt="mikhailpotter" /> </p>
 
