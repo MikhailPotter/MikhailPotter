@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikhailpotter&label=Profile%20views&color=0e75b6&style=flat" alt="mikhailpotter" /> </p>
 
-- 🔭 I’m currently working in **SBERBANK**
+- 🔭 I’m currently working in **BeeLine**
 
 - 🌱 I’m currently learning **NLP, Flask, FastAPI**
 
