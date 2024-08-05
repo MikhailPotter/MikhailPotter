@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **BeeLine**
 
-- 🌱 I’m currently learning **NLP, Flask, FastAPI**
+- 🌱 I’m currently learning **NLP, Dask, Cuda**
 
 - 💬 Ask me about **machine learning, data bases, algorithms**
 
