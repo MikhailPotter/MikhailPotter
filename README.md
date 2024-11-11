@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">A data scientist and python developer from Russia</h3>
+<h3 align="center">Data Scientist and Python Developer from Moscow, Russia</h3>
 
 ![I am GitHub Readme Generator's creator](https://github.com/MikhailPotter/MikhailPotter/blob/main/ds.png)
 
